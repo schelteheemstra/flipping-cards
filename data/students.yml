@@ -1,9 +1,9 @@
 - name: aron
   picture: aron.jpeg
-  url: 
-- name: blane
-  picture: blane.jpeg
   url:
+- name: blane
+  picture: blane.jpg
+  url: http://lewagon.com
 - name: carolien
   picture: carolien.jpeg
   url:
