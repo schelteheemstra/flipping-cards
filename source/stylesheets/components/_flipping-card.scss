@@ -1,5 +1,14 @@
 .flipping-card {
   position: relative;
+  display: block;
+  color: inherit;
+  &:hover {
+    color: inherit;
+  }
+
+  h2 {
+    margin: 0;
+  }
 }
 
 .flipping-card-back, .flipping-card-front {
@@ -17,6 +26,9 @@
   background: rgb(240,240,240);
   transform: rotateY(-180deg);
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .flipping-card:hover .flipping-card-back {

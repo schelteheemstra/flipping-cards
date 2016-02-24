@@ -1,69 +1,69 @@
 - name: aron
   picture: aron.jpeg
-  description:
+  url: 
 - name: blane
   picture: blane.jpeg
-  description:
+  url:
 - name: carolien
   picture: carolien.jpeg
-  description:
+  url:
 - name: daniel
   picture: daniel.jpeg
-  description:
+  url:
 - name: eden
   picture: eden.jpeg
-  description:
+  url:
 - name: emiel
   picture: emiel.jpeg
-  description:
+  url:
 - name: iris
   picture: iris.jpeg
-  description:
+  url:
 - name: jojanneke
   picture: jojanneke.jpeg
-  description:
+  url:
 - name: lars
   picture: lars.jpeg
-  description:
+  url:
 - name: lena
   picture: lena.jpeg
-  description:
+  url:
 - name: lennard
   picture: lennard.png
-  description:
+  url:
 - name: martin
   picture: martin.png
-  description:
+  url:
 - name: matthijs
   picture: matthijs.jpeg
-  description:
+  url:
 - name: melchior
   picture: melchior.png
-  description:
+  url:
 - name: michele
   picture: michele.jpeg
-  description:
+  url:
 - name: paula
   picture: paula.jpeg
-  description:
+  url:
 - name: quoc
   picture: quoc.jpeg
-  description:
+  url:
 - name: rianne
   picture: rianne.jpeg
-  description:
+  url:
 - name: roy
   picture: roy.jpeg
-  description:
+  url:
 - name: schelte
   picture: schelte.jpeg
-  description:
+  url:
 - name: tim
   picture: tim.jpeg
-  description:
+  url:
 - name: tom
   picture: tom.jpeg
-  description:
+  url:
 - name: wouter
   picture: wouter.jpeg
-  description:
+  url:
