@@ -1,6 +1,6 @@
 - name: aron
   picture: aron.jpeg
-  url: 
+  url:
 - name: blane
   picture: blane.jpeg
   url:
@@ -14,7 +14,7 @@
   picture: eden.jpeg
   url:
 - name: emiel
-  picture: emiel.jpeg
+  picture: emiel.jpg
   url:
 - name: iris
   picture: iris.jpeg
